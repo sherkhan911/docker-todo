@@ -13,6 +13,7 @@ namespace todoapp
     {
         public static void Main(string[] args)
         {
+            // just testing
             CreateHostBuilder(args).Build().Run();
         }
 
